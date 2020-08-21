@@ -1,0 +1,11 @@
+{
+    "content": "this `supports` __a__ **subset** *of* ~~markdown~~ 😃 ```js\nfunction foo(bar) {\n  console.log(bar);\n}\n\nfoo(1);```",
+    "embed": {
+      "title": "title ~~(did you know you can have markdown here too?)~~",
+      "description": "this supports [named links](https://discordapp.com) on top of the previously shown subset of markdown. ```\nyes, even code blocks```",
+      "url": "https://discordapp.com",
+      "color": 13232191,
+      "timestamp": "2020-06-25T00:31:13.897Z"
+     
+    }
+  }
