@@ -1,4 +1,4 @@
-autopub fait par Mala#0045
+autopub fait par Malakrovi#8543
 
 1- cmd npm install
 2- config config.json
